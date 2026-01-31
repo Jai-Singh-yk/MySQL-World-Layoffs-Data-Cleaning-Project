@@ -137,7 +137,7 @@ AND percentage_laid_off IS NULL;
 ```
 ---
 
-7️⃣ 🧼 Final Cleanup
+## 7️⃣ 🧼 Final Cleanup
 
 - Removed helper column used for duplicate identification
 
